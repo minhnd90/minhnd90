@@ -2,7 +2,6 @@
 - 👀 I’m interested in Angular
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on FE development
-- 📫 How to reach me ...
 
 <!---
 minhnd90/minhnd90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
