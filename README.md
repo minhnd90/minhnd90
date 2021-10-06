@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhnd90&hide=java)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhnd90&hide=java&langs_count=10)
 
 <!---
 minhnd90/minhnd90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
